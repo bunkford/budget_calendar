@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-
 ## Budget Calendar
+## 2018 Duncan Clarke
 
 try:
     from tkinter import *
@@ -436,8 +436,9 @@ class GUI:
                     if int(deleted) != 1:
 
                         # total until last month
-                        if next_date < until_date and next_date >= adjustment_date:
+                        if next_date < until_date and next_date > adjustment_date:
                             self.total_until_last_month += float(repeated_transaction_amount)
+                            print next_date, self.total_until_last_month,  float(repeated_transaction_amount)
                             
                         try:
                             day_frame = self.root.children[next_date]
