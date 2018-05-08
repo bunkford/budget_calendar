@@ -1,7 +1,7 @@
 # budget_calendar
 Python tkinter budget calendar.
 
-![printer switcher](https://github.com/bunkford/printer_switcher/raw/master/readme_image.PNG)
+![buget calendar](https://github.com/bunkford/budget_calendar/raw/master/readme_image.PNG)
 
 Drag & Drop Transactions.
 
