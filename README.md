@@ -1,6 +1,8 @@
 # budget_calendar
 Python tkinter budget calendar.
 
+![printer switcher](https://github.com/bunkford/printer_switcher/raw/master/readme_image.PNG)
+
 Drag & Drop Transactions.
 
 Right click context menu.
