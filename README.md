@@ -2,7 +2,10 @@
 Python tkinter budget calendar.
 
 ![buget calendar](https://github.com/bunkford/budget_calendar/raw/master/readme_image.PNG)
+
 ![buget calendar](https://github.com/bunkford/budget_calendar/raw/master/readme_image2.PNG)
+
+
 Drag & Drop Transactions.
 
 Right click context menu.
